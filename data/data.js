@@ -1,12 +1,10 @@
 import Project1 from "../assets/projects/project1.jpg";
-import Project2 from "../assets/projects/project2.jpg";
 import Project3 from "../assets/projects/project3.jpg";
-import Project4 from "../assets/projects/project4.jpg";
-import Project5 from "../assets/projects/project5.jpg";
-import Project6 from "../assets/projects/project6.jpg";
-import Project7 from "../assets/projects/project7.jpg";
+import Project5 from "../assets/projects/project5.JPG";
+
+import Project7 from "../assets/projects/project7.JPG";
 import Project8 from "../assets/projects/project8.jpg";
-import Project10 from "../assets/projects/Project10.jpg";
+import Project10 from "../assets/projects/project10.jpg";
 import Project11 from "../assets/projects/project11.jpg";
 import Project12 from "../assets/projects/project12.jpeg";
 import Project13 from "../assets/projects/project13.jpeg";
